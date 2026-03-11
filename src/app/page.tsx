@@ -160,7 +160,7 @@ export default function LandingPage() {
               id: "6",              name: "Patricia Hernández, Propietaria",              date: "Date: 25 Octubre 2024",              title: "Atención personalizada y dedicada",              quote: "No solo administran, también entienden nuestras necesidades. El equipo es accesible, amable y siempre disponible para ayudar.",              tag: "Residencial Familiar",              avatarSrc: "http://img.b2bpic.net/free-photo/portrait-smiling-blonde-businesswoman-formal-dressed-isolated-dark-textured-background_613910-5399.jpg",              avatarAlt: "Patricia Hernández",              imageSrc: "http://img.b2bpic.net/free-photo/portrait-smiling-blonde-businesswoman-formal-dressed-isolated-dark-textured-background_613910-5399.jpg"
             }
           ]}
-          title="Lo Que Dicen Nuestros Clientes"
+          title="Loe Dicen Nuestros Clientes"
           description="Conoce las experiencias de propietarios y administradores que confían en nosotros."
           textboxLayout="default"
           useInvertedBackground={false}
