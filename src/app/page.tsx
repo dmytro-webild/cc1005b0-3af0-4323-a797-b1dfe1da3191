@@ -46,7 +46,7 @@ export default function LandingPage() {
           background={{ variant: "glowing-orb" }}
           kpis={[
             { value: "15+", label: "Años de Experiencia" },
-            { value: "200+", label: "Condominios Administrados" },
+            { value: "50+", label: "Condominios Administrados" },
             { value: "98%", label: "Satisfacción de Clientes" }
           ]}
           enableKpiAnimation={true}
