@@ -45,7 +45,7 @@ export default function LandingPage() {
           description="Gestión eficiente, transparencia financiera y tranquilidad para propietarios. Somos expertos en administración de propiedades en Santo Domingo."
           background={{ variant: "glowing-orb" }}
           kpis={[
-            { value: "15+", label: "Años de Experiencia" },
+            { value: "10+", label: "Años de Experiencia" },
             { value: "50+", label: "Condominios Administrados" },
             { value: "98%", label: "Satisfacción de Clientes" }
           ]}
