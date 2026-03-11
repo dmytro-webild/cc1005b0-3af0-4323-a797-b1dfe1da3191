@@ -19,7 +19,7 @@ export default function LandingPage() {
       borderRadius="soft"
       contentWidth="mediumLarge"
       sizing="largeSizeMediumTitles"
-      background="floatingGradient"
+      background="circleGradient"
       cardStyle="solid"
       primaryButtonStyle="gradient"
       secondaryButtonStyle="glass"
@@ -43,7 +43,7 @@ export default function LandingPage() {
         <HeroSplitKpi
           title="Administración Profesional de Condominios"
           description="Gestión eficiente, transparencia financiera y tranquilidad para propietarios. Somos expertos en administración de propiedades en Santo Domingo."
-          background={{ variant: "floatingGradient" }}
+          background={{ variant: "glowing-orb" }}
           kpis={[
             { value: "15+", label: "Años de Experiencia" },
             { value: "200+", label: "Condominios Administrados" },
